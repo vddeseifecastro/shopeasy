@@ -20,28 +20,38 @@ A modern, full-featured e-commerce application built from scratch with React and
 ## 📸 Screenshots
 
 ### 🔐 Authentication
-![Auth](https://github.com/user-attachments/assets/7787ec8b-4254-4ffd-bec0-a5b20d918beb)
+
+**Login**
+
+![Login](https://github.com/user-attachments/assets/7787ec8b-4254-4ffd-bec0-a5b20d918beb)
+
+**Register**
+
+![Register](https://github.com/user-attachments/assets/52b6fc1d-5117-4e39-818c-6b4d728c31fe)
 
 ### 🏠 Product Catalog
-![Home](https://github.com/user-attachments/assets/52b6fc1d-5117-4e39-818c-6b4d728c31fe)
+
+![Home](https://github.com/user-attachments/assets/7607de2b-d902-4048-b631-9b334031c214)
 
 ### 🔍 Product Detail
-![Detail](https://github.com/user-attachments/assets/7607de2b-d902-4048-b631-9b334031c214)
+
+![Detail](https://github.com/user-attachments/assets/bb270111-2a9f-400d-b98c-d53f5732cf12)
 
 ### 🛒 Cart
-![Cart](https://github.com/user-attachments/assets/bb270111-2a9f-400d-b98c-d53f5732cf12)
 
-### 📦 My Orders
-![Orders](https://github.com/user-attachments/assets/6a549ab0-139c-4a40-9201-bd0d17f37bc6)
+![Cart](https://github.com/user-attachments/assets/6a549ab0-139c-4a40-9201-bd0d17f37bc6)
 
 ### ✅ Order Success
+
 ![Success](https://github.com/user-attachments/assets/583fe53f-2aa2-4ace-a8dd-a1f0fee05c13)
 
-### ⚙️ Admin — Products
-![Admin Products](https://github.com/user-attachments/assets/49424ff6-443d-431a-b112-12450d76a955)
+### 📦 My Orders
 
-### 📋 Admin — Orders
-![Admin Orders](https://github.com/user-attachments/assets/6ddeb635-f378-459b-a7a3-1fb4c8c50366)
+![Orders](https://github.com/user-attachments/assets/49424ff6-443d-431a-b112-12450d76a955)
+
+### ⚙️ Admin Panel
+
+![Admin](https://github.com/user-attachments/assets/6ddeb635-f378-459b-a7a3-1fb4c8c50366)
 
 ---
 
@@ -109,7 +119,7 @@ python seed.py
 uvicorn app.main:app --reload
 ```
 
-Backend running at `http://localhost:8000`
+Backend running at `http://localhost:8000`  
 API docs at `http://localhost:8000/docs`
 
 ### Frontend Setup

@@ -218,13 +218,13 @@ cancelled   cancelled
 
 ## 👨‍💻 Author
 
-**Victor Deseife Castro**
+**Victor Dominic Deseife Castro**
 
-[![GitHub](https://img.shields.io/badge/GitHub-victordeseifecastro-181717?style=for-the-badge&logo=github)](https://github.com/victordeseifecastro)
+[![GitHub](https://img.shields.io/badge/GitHub-vddeseifecastro-181717?style=for-the-badge&logo=github)](https://github.com/vddeseifecastro)
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Victor Deseife Castro</p>
+  <p>Built with ❤️ by Victor Dominic Deseife Castro</p>
   <p>⭐ Star this repo if you found it useful!</p>
 </div>
